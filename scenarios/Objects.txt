@@ -1,0 +1,27 @@
+#This file defines all the objects
+PNGOBJ box.props
+PHYSPNGOBJ wall.props
+RoadOBJ road.props
+PHYSMTLOBJ stopsign.props
+PHYSMTLOBJ signpost.props
+PHYSMTLOBJ trafficcone.props
+PHYSMTLOBJ trafficconewithstick.props
+PHYSMTLOBJ kerb.props
+MTLOBJ grassmodel.props
+MTLOBJ 40sign.props
+MTLOBJ 30sign.props
+MTLOBJ noparkingsign.props
+MTLOBJ nostoppingsign.props
+MTLOBJ stoppavementmarking.props
+
+
+CAROBJ car1.props
+
+#Obj pine=(pine.obj,pine.png)
+#Obj stall=(stall.obj,stallTexture.png)
+#Obj grass=(grassModel.obj,grassTexture.png)
+#Obj fern=(fern.obj,fern.png,2)
+#Obj cube=(1mcube.obj,1mcube.png)
+#Obj marker=(marker.obj,1mcube.png)
+#Obj platform=(platform.obj,1mcube.png)
+

@@ -1,0 +1,27 @@
+[Car Object Properties File]
+objname=car1
+objfile=car2.obj
+#interiorobjfile=carInterior.obj
+#interiorpngfile=carInterior.png
+tireobjfile=tire2.obj
+tirepngfile=tire.png
+dimensions=(1.685,1.15,4.27)
+aabbsize=(0.8425, 0.4, 2.135)
+mass=1500
+wheelradius=0.36
+coefficientoffriction=0.37
+rollingresistance = 0.015
+frontalarea=2.6
+maxsteerangle=0.40
+distbetwheels=2.465
+gearratio1=2.786
+gearratio2=1.614
+gearratio3=1.082
+gearratio4=0.773
+gearratio5=0.566
+gearratior=2.000
+diffratio=4.500
+nm@1000rpm=87
+nm@4200rpm=187
+nm@6500rpm=150
+

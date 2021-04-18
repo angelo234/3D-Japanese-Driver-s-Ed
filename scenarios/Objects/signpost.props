@@ -1,0 +1,7 @@
+[Physics MTL Object Properties File]
+objname=signpost
+objfile=signpost.obj
+aabbsize=(0.03,1.235,0.03)
+mass=0
+friction=0
+restitution=0

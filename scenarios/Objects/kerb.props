@@ -1,0 +1,7 @@
+[Physics MTL Object Properties File]
+objname=kerb
+objfile=kerb.obj
+aabbsize=(1,0.2,0.12)
+mass=0
+friction=0
+restitution=0

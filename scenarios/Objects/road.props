@@ -1,0 +1,5 @@
+[Road Properties File]
+objname=road
+objfile=road2.obj
+pngfile=road3.png
+aabbsize=(4.05,0,5)

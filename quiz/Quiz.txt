@@ -1,0 +1,377 @@
+[Quiz File]
+q:What do you do at this sign?
+ac:Stop
+a:Yield
+a:Slow down
+a:Get ready to stop
+i:stop.png
+end
+
+q:What does this sign mean?
+ac:No parking allowed
+a:No stopping allowed
+a:Slow down
+a:Stop
+i:noparking.png
+end
+
+q:Can you turn left on a red light?
+ac:No
+a:Yes
+a:After yielding to traffic
+a:Depends
+end
+
+q:Can a car drive in the right lane where 2 lanes of traffic are going in the same direction without intending to pass another vehicle?
+ac:No
+a:Yes
+a:After yielding to traffic
+a:Depends
+end
+
+q:Can you overtake other vehicles over a white solid line?
+ac:When it is safe
+a:No
+a:Only for emergency reasons
+a:Only over a yellow line
+end
+
+q:What does this sign allow?
+ac:Going in the indicated directions
+a:Going in directions other than indicated
+a:Going in left and right directions
+a:None of these answers
+i:leftandstraight.png
+end
+
+q:What does this sign mean?
+ac:Slow down
+a:Yield
+a:Stop
+a:No passing
+i:slowdown.png
+end
+
+q:What is the typical speed limit in urban areas?
+ac:40km/h
+a:60km/h
+a:70km/h
+a:20km/h
+end
+
+q:What does this sign mean?
+ac:Pedestrian crossing
+a:Bicycle crossing
+a:School crossing
+a:None of these answers
+i:pedestriancross.png
+end
+
+q:What does this sign mean?
+ac:No overtaking
+a:No U-turn
+a:No right turn crossing ahead
+a:No abrupt movements
+i:nopassing.png
+end
+
+q:What does this sign not allow?
+ac:Stopping
+a:Parking
+a:Speeding 
+a:None of these answers
+i:nostopping.png
+end
+
+q:What does this sign mean?
+ac:No pedestrian crossing
+a:Road closed to pedestrians
+a:Pedestrian crossing
+a:Jaywalking allowed
+i:nopedestriancross.png
+end
+
+q:Can you turn right on a traffic light with a red light and right green arrow?
+ac:Yes
+a:No
+a:When there is no red light, you may then proceed
+a:No, because it is to indicate the direction you cannot turn in
+end
+
+q:What does this sign mean?
+ac:Slippery surface
+a:Windy road
+a:S curve road ahead
+a:Beware of car tipping over
+i:slipperyroad.png
+end
+
+q:The distance you can legally pass within a pedestrian crossing
+ac:30 meters
+a:25 meters
+a:20 meters
+a:15 meters
+end
+
+q:What must you do when you hear or see sirens going the same way as you?
+ac:Pull off to the side of the road
+a:Speed up
+a:Stop in the middle of the road
+a: None of these answers
+end
+
+q:What does this sign mean?
+ac:Yield
+a:Slow down
+a:Stop
+a:Road narrows
+i:yield.png
+end
+
+q:What does this sign mean?
+ac:Do not enter
+a:Enter
+a:Beware of dangers
+a:None of these answers
+i:noenter.png
+end
+
+q:What does this sign mean?
+ac:Closed to large size trucks
+a:Closed to motor vehicles
+a:Closed to all vehicles except trucks
+a:None of these answers
+i:notrucks.png
+end
+
+q:What does this sign mean?
+ac:Traffic merges from the left
+a:T-intersection coming up
+a:Left lane ends
+a:None of these answers
+i:mergefromleft.png
+end
+
+q:What does this sign mean?
+ac:Speed limit is 90km/h
+a:Mininum speed limit is 90km/h
+a:End of 90km/h speed limit 
+a:Speed limit is 0.9km/h
+i:limit90.png
+end
+
+q:What does this sign mean?
+ac:Road closed to all
+a:Road closed to vehicles
+a:Wrong way
+a:Do not enter
+i:closedtoall.png
+end
+
+q:What does this sign mean?
+ac:Road closed to vehicles
+a:Road closed to all
+a:Do not enter
+a:None of these answers
+i:closedtovehicles.png
+end
+
+q:What does this sign mean?
+ac:Vehicles above 5.5 tons not allowed
+a:Vehicles below 5.5 tons not allowed
+a:Speed limit is 5.5km/h
+a:None of these answers
+i:5.5tabovenotallowed.png
+end
+
+q:What does this sign mean?
+ac:Right turn crossing not allowed
+a:End of lane merging
+a:No going straight or right
+a:None of these answers
+i:norightturncrossing.png
+end
+
+q:What does this sign mean?
+ac:Keep left
+a:Left turn allowed
+a:Left turn not allowed
+a:None of these answers
+i:keepleft.png
+end
+
+q:What does this sign mean?
+ac:Mininum speed limit is 50km/h
+a:Maximum speed limit is 50km/h
+a:End of 50km/h speed limit 
+a:None of these answers
+i:mininum50.png
+end
+
+q:What does this sign mean?
+ac:One way road going left
+a:Keep left
+a:Left turn allowed
+a:None of these answers
+i:onewayleft.png
+end
+
+q:What does this sign mean?
+ac:Road closed to pedestrians
+a:No pedestrian crossing
+a:Road only open to pedestrians
+a:None of these answers
+i:roadclosedtopedestrians.png
+end
+
+q:What does this sign mean?
+ac:10% descent gradient
+a:10% speed increase
+a:10% road incline
+a:10% of road descends
+i:10descent.png
+end
+
+q:What does this sign mean?
+ac:Crossroad ahead
+a:Road overpass ahead
+a:Uncontrolled intersection ahead
+a:None of these answers
+i:crossroad.png
+end
+
+q:What does this sign mean?
+ac:Two way traffic ahead
+a:One lane traffic on each side ahead
+a:Road narrows
+a:U turn allowed ahead
+i:twowaytraffic.png
+end
+
+q:What does this sign mean?
+ac:No motorized vehicles
+a:No cars and mopeds
+a:No running over motorcycles
+a:None of these answers
+i:nomotorvehicles.png
+end
+
+q:What does this sign mean?
+ac:Motor vehicles only
+a:No trucks allowed
+a:Cars only
+a:None of these answers
+i:motorvehiclesonly.png
+end
+
+q:What does this sign mean?
+ac:Pedestrians only
+a:Pedestrian crossing
+a:School zone
+a:None of these answers
+i:pedestriansonly.png
+end
+
+q:What does this sign mean?
+ac:No unmotorized vehicles
+a:Only mopeds allowed
+a:No two wheeled vehicles allowed
+a:None of these answers
+i:nounmotorizedvehicles.png
+end
+
+q:What does this sign mean?
+ac:Bicycles only
+a:Two wheel vehicles only
+a:No two wheel vehicles
+a:None of these answers
+i:bicyclesonly.png
+end
+
+q:What does this sign mean?
+ac:No vehicles carrying dangerous goods
+a:No stopping allowed
+a:Don't stop here even in an emergency
+a:None of these answers
+i:nodangerousgoodsvehicles.png
+end
+
+q:What does this sign mean?
+ac:Road narrows
+a:Lanes end on both sides
+a:End of narrow road
+a:None of these answers
+i:roadnarrows.png
+end
+
+q:What does this sign mean?
+ac:Left lane ends
+a:Multiple lanes end
+a:Added left lane
+a:None of these answers
+i:leftlaneends.png
+end
+
+q:What does this sign mean?
+ac:End of speed limit restriction
+a:Dead end
+a:Wrong way
+a:None of these answers
+i:speedlimitend.png
+end
+
+q:Can you drive after cosuming sleeping medications or alcohol even though you feel fine?
+ac:Absolutely not; it can land you some jail time
+a:No only in the day time where you are more attentive
+a:Only if you have to
+a:None of these answers 
+end
+
+q:Can you cross over a yellow line when there are no cars at night?
+ac:Never
+a:No only when it is day time
+a:Only for emergency reasons
+a:None of these answers 
+end
+
+q:What does a flashing yellow light mean
+ac:Proceed with caution
+a:Drive straight through without hesitation
+a:Come to a complete stop and proceed when clear
+a:None of these answers
+end
+
+q:What does a flashing red light mean
+ac:Come to a complete stop and proceed when clear
+a:Drive straight through without hesitation
+a:Proceed with caution
+a:None of these answers
+end
+
+q:What should you do when you see a yellow light
+ac:If safe, come to a complete stop 
+a:Speed up
+a:Slam on the brakes and hope the car behind doesn't ram into you
+a:None of these answers
+end
+
+q:Can you go on a yellow arrow light
+ac:No only streetcars/trams can proceed
+a:Yes
+a:Because it is associated with a red light you can't go
+a:None of these answers
+end
+
+q:Is it fine not to wear a seat belt
+ac:No it is illegal 
+a:Yes
+a:When the police aren't around
+a:None of these answers
+end
+
+q:Is it ok to swerve around a pedestrian crossing at a pedestrian crosswalk
+ac:No it is illegal 
+a:Yes
+a:When the police aren't around
+a:None of these answers
+end

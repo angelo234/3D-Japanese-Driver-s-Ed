@@ -1,0 +1,8 @@
+[Physics PNG Object Properties File]
+objname=wall
+objfile=wall2.obj
+pngfile=brickwall.png
+aabbsize=(0.25,3,2.5)
+mass=0
+friction=1
+restitution=0

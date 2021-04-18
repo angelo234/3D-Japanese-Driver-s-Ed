@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="3D Japanese Driver&apos;s Ed/libraries/lwjgl-2.9.3/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libraries/luaj-3.0.1/luaj-jme-3.0.1.jar"/>
+	<classpathentry kind="lib" path="libraries/luaj-3.0.1/luaj-jse-3.0.1.jar"/>
+	<classpathentry kind="lib" path="libraries/luaj-3.0.1/luaj-sources-3.0.1.jar"/>
+	<classpathentry kind="lib" path="libraries/lwjgl-2.9.3/jar/jinput.jar"/>
+	<classpathentry kind="lib" path="libraries/lwjgl-2.9.3/jar/lwjgl_util.jar" sourcepath="libraries/lwjgl-2.9.3/lwjgl-source-2.9.1.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/3D%20Car%20Simulator/libraries/lwjgl-2.9.3/doc/javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libraries/lwjgl-2.9.3/jar/lwjgl.jar" sourcepath="libraries/lwjgl-2.9.3/lwjgl-source-2.9.1.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/3D%20Car%20Simulator/libraries/lwjgl-2.9.3/doc/javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libraries/DelaunayTriangulator-1.0.3.jar"/>
+	<classpathentry kind="lib" path="libraries/slick.jar"/>
+	<classpathentry kind="lib" path="libraries/PNGDecoder.jar"/>
+	<classpathentry kind="lib" path="libraries/jbullet/jbullet.jar" sourcepath="libraries/jbullet/src"/>
+	<classpathentry kind="lib" path="libraries/vecmath.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

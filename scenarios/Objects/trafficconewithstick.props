@@ -1,0 +1,7 @@
+[Physics MTL Object Properties File]
+objname=trafficconewithstick
+objfile=trafficconewithstick.obj
+aabbsize=(0.17,0.252,0.17)
+mass=1
+friction=1
+restitution=0.5

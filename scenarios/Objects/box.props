@@ -1,0 +1,5 @@
+[PNG Object Properties File]
+objname=box
+objfile=box.obj
+pngfile=box.png
+aabbsize=(1,1,1)
